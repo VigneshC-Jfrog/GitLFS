@@ -1,4 +1,0 @@
-README.md
-foo.txt
-pom.xml
-src

@@ -1,5 +1,0 @@
-README.md
-bar.txt
-foo.txt
-pom.xml
-src
