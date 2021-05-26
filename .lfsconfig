@@ -1,2 +1,2 @@
 [lfs]
-url = "http://admin:AP8nViohhaPf9THm6wcWbfhUgXQ@localhost:8081/artifactory/api/lfs/gitlfs"
+	url = https://github.com/VigneshC-Jfrog/GitLFS.git/info/lfs
